@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Skrew up <code>src/App.js</code> and save to reload.
+          Skrewing up code in aws <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
